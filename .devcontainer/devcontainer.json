@@ -4,7 +4,10 @@
             "extensions": ["ms-python.python", "ms-toolsai.jupyter"],
             "settings": {
                 "terminal.integrated.shellIntegration.enabled": true,
-                "workbench.sideBar.location": "right"
+                "workbench.sideBar.location": "right",
+                "git.enableSmartCommit": true,
+                "git.confirmSync": false,
+                "git.autofetch": true
             }
         }
     }
