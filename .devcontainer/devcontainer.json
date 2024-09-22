@@ -3,7 +3,8 @@
         "vscode": {
             "extensions": ["ms-python.python", "ms-toolsai.jupyter"],
             "settings": {
-                "terminal.integrated.shellIntegration.enabled": true
+                "terminal.integrated.shellIntegration.enabled": true,
+                "workbench.sideBar.location": "right"
             }
         }
     }
